@@ -1,0 +1,36 @@
+#caja {
+    border: solid 1px;
+}
+
+
+img {
+    height: 250px;
+    width: 240px;
+    position: relative;
+    top: 25px;
+    left: 100px;
+    display: inline;
+    border: solid 1px;
+}
+
+#encabe {
+    height: 300px;
+    width: 1469px;
+    background-color: lightblue;
+}
+
+.cv {
+    position: relative;
+    bottom: 200px;
+    left: 400px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.descripcion1 {
+    width: 1188px;
+    position: relative;
+    left: 100px;
+}

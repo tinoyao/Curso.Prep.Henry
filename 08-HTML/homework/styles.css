@@ -1,0 +1,38 @@
+
+
+ h1 {
+    color: blue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: pink;
+    padding: 50px;
+    border: 12px solid yellow;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+body {
+    background-image: url(https://wp-growpro.s3-eu-west-1.amazonaws.com/media/2017/01/Consejos-sobre-co%CC%81mo-buscar-personas-en-Australia.jpg);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/*.divClass {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+}*/
